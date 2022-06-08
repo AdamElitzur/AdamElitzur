@@ -1,12 +1,11 @@
-Hi 👋 My name is Adam Elitzur
-=============================
+# Hi 👋 My name is Adam Elitzur
 
 Web Developer and Python Instructor
 -----------------------------------
 
-I've been learning to code for four years, mainly self taught. I started with Python, but have recently developed an interest in web development.
+#### I've been learning to code for four years, mainly self taught. I started with Python, but have recently developed an interest in web development.
 
-* 🤝  I'm open to collaborating on Web Development Projects
+#### 🤝  I'm open to collaborating on Web Development or Python Projects
 
 <p align="left">
   
