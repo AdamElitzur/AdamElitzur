@@ -2,15 +2,10 @@
 
 ## Programmer and Python Instructor
 
-- I have been learning programming for over 4 years and really love it. 
-- I started with Python, and then web development, specifically HTML, CSS, and JS, where I built many projects. I then learned Java. Now I am getting into machine learning, which is a whole new world that I am very excited about. 
-- I completed three programming courses, Colt Steele's Web Development Bootcamp, Modern Python 3 Bootcamp, and CS50 (Harvard's Introduction to Computer Science), which I completed the summer before 9th grade. Studying alongside first year students at Harvard and successfully solving the same problem sets that they were all given, gave me the confidence to continue on this journey.
-
-- 🤝  I'm open to collaborating on ML, Web Development, or Python Projects
+- 🌱 I'm currently learning machine learning and cybersecurity
+- 🤝 I'm open to collaborating on ML, Web Development, or Python Projects
 
 <p align="left">
-  
-### Main Language
   
 ### Languages and Tools:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -21,9 +16,9 @@
 
   
 ### Design Software
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/products/xd/fonts/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
 
@@ -40,7 +35,7 @@
 &nbsp;&nbsp;
 
 
-### Latest blog posts:
+### 📕Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to use ChatGPT to web scrape EASILY](https://blog.adamelitzur.com/how-to-use-chatgpt-to-web-scrape-easily)
 - [Looking back on the year - Dev Retro 2022](https://blog.adamelitzur.com/looking-back-on-the-year-dev-retro-2022)
