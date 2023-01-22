@@ -1,4 +1,4 @@
-# Hi 👋 I'm Adam Elitzur
+<!-- # Hi 👋 I'm Adam Elitzur -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/portfolio-website-header-dark.png">
