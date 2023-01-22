@@ -1,6 +1,5 @@
 # Hi 👋 I'm Adam Elitzur
 
-<img src="img/portfolio-website-header.png" alt="banner for Adam Elitzur - programmer and Python instructor">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/portfolio-website-header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="img/portfolio-website-header-light.png">
