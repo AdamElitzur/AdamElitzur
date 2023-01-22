@@ -42,4 +42,7 @@
 
 ### Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to use ChatGPT to web scrape EASILY](https://blog.adamelitzur.com/how-to-use-chatgpt-to-web-scrape-easily)
+- [Looking back on the year - Dev Retro 2022](https://blog.adamelitzur.com/looking-back-on-the-year-dev-retro-2022)
+- [Hello World: About my programming journey](https://blog.adamelitzur.com/hello-world-about-my-programming-journey)
 <!-- BLOG-POST-LIST:END -->
