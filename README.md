@@ -43,7 +43,7 @@ I have been learning programming for over 4 years and really love it. I started 
 &nbsp;&nbsp;
 
 
-### 📕Latest blog posts:
+### 📕 Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to use ChatGPT to web scrape EASILY](https://blog.adamelitzur.com/how-to-use-chatgpt-to-web-scrape-easily)
 - [Looking back on the year - Dev Retro 2022](https://blog.adamelitzur.com/looking-back-on-the-year-dev-retro-2022)
