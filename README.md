@@ -8,9 +8,11 @@
 
 I have been learning programming for over 4 years and really love it. I started with Python, and then web development, specifically HTML, CSS, and JS, where I built many projects. I then learned Java. Now I am getting into machine learning, which is a whole new world that I am very excited about. I completed three programming courses, Colt Steele's Web Development Bootcamp, Modern Python 3 Bootcamp, and CS50 (Harvard's Introduction to Computer Science), which I completed the summer before 9th grade. Studying alongside first year students at Harvard and successfully solving the same problem sets that they were all given, gave me the confidence to continue on this journey.
 
+I joined [Buildspace's Nights & Weekends program](https://buildspace.so), where I built [Songlingo](https://song-lingo.com) in 6 weeks!
+
 ## Programmer and Python Instructor
 
-- 🌱 I'm currently learning machine learning and cybersecurity
+- 🌱 I'm currently building [Songlingo](https://song-lingo.com), a website to learn languages through songs
 - 🤝 I'm open to collaborating on ML, Web Development, or Python Projects
 
 <p align="left">
