@@ -47,9 +47,9 @@ I joined [Buildspace's Nights & Weekends program](https://buildspace.so), where 
 
 ### 📕 Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [6 weeks of building my dream with Buildspace Nights &amp; Weekends](https://blog.adamelitzur.com/6-weeks-of-building-my-dream-with-buildspace-nights-weekends)
 - [Former South Floridian Farza Majeed raised $10M for school backed by Andreessen Horowitz; now helping others&#39; ideas come to life](https://blog.adamelitzur.com/former-south-floridian-farza-majeed-raised-10m-for-school-backed-by-andreessen-horowitz-now-helping-others-ideas-come-to-life)
 - [18th Annual South Florida Devcon Brings Together Developers, Designers, Tech Professionals and Educators](https://blog.adamelitzur.com/18th-annual-south-florida-devcon-brings-together-developers-designers-tech-professionals-and-educators)
 - [History &amp; Future of Tech in South Florida](https://blog.adamelitzur.com/history-future-of-tech-in-south-florida)
 - [How to use ChatGPT to web scrape EASILY](https://blog.adamelitzur.com/how-to-use-chatgpt-to-web-scrape-easily)
-- [Looking back on the year - Dev Retro 2022](https://blog.adamelitzur.com/looking-back-on-the-year-dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
