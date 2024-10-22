@@ -6,9 +6,9 @@
   <img alt="banner for Adam Elitzur - programmer and Python instructor" src="img/portfolio-website-header-light.png">
 </picture> -->
 
-I have been learning programming for over 4 years and really love it. I started with Python, and then web development, specifically HTML, CSS, and JS, where I built many projects. I then learned Java. Now I am getting into machine learning, which is a whole new world that I am very excited about. I completed three programming courses, Colt Steele's Web Development Bootcamp, Modern Python 3 Bootcamp, and CS50 (Harvard's Introduction to Computer Science), which I completed the summer before 9th grade. Studying alongside first year students at Harvard and successfully solving the same problem sets that they were all given, gave me the confidence to continue on this journey.
+I'm a first-year at MIT studying Computer Science and Engineering. I have been learning programming for over 5 years and really love it. I started with Python, and then web development, specifically HTML, CSS, and JS, where I built many projects. I then learned Java. Now I am getting into machine learning, which is a whole new world that I am very excited about. I completed three programming courses, Colt Steele's Web Development Bootcamp, Modern Python 3 Bootcamp, and CS50 (Harvard's Introduction to Computer Science), which I completed the summer before 9th grade. Studying alongside first year students at Harvard and successfully solving the same problem sets that they were all given, gave me the confidence to continue on this journey.
 
-I joined [Buildspace's Nights & Weekends program](https://buildspace.so), where I built [Songlingo](https://song-lingo.com) in 6 weeks!
+I joined [Buildspace's Nights & Weekends program](https://buildspace.so), where I built [Songlingo](https://song-lingo.com) in 6 weeks! Songlingo won one of 20 Buildspace grants.
 
 ## Programmer and Python Instructor
 
